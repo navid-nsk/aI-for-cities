@@ -5,7 +5,7 @@
 
 This repository contains the data, code, and supplementary materials for the systematic literature review:
 
-> **Artificial Intelligence in Urban Studies: A Systematic Review of Research Trajectories, Methodological Patterns, and Sustainability Orientations (2020-2025)**
+> **AI for cities: patterns, gaps, and future directions**
 
 ## Overview
 
