@@ -147,20 +147,6 @@ AND DOCTYPE(ar) AND LANGUAGE(english)
 
 See `docs/METHODOLOGY.md` for complete search string and inclusion/exclusion criteria.
 
-## Citation
-
-If you use this data or code in your research, please cite:
-
-```bibtex
-@article{author2025aiurban,
-  title={Artificial Intelligence in Urban Studies: A Systematic Review of Research
-         Trajectories, Methodological Patterns, and Sustainability Orientations (2020-2025)},
-  author={Author, Name},
-  journal={Journal Name},
-  year={2025},
-  doi={10.xxxx/xxxxx}
-}
-```
 
 ## License
 
