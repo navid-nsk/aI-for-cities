@@ -1,0 +1,22 @@
+﻿,Digital Transformation & Smart Cities,Climate Change & Environmental Sustainability,Urban Mobility & Transportation,Social Equity & Quality of Life,Urban Development & Land Use,Urban Resilience & Safety,Total
+Machine Learning,275,362,87,110,118,23,975
+Deep Learning,389,180,73,61,41,44,788
+CNN,265,119,53,60,52,31,580
+Random Forest,100,209,35,52,62,21,479
+Neural Network,112,126,17,26,48,9,338
+LSTM,117,87,53,8,14,4,283
+Reinforcement Learning,100,18,27,1,0,5,151
+Ensemble Methods,42,72,2,4,10,13,143
+GNN,58,16,27,2,6,2,111
+XGBoost,11,48,17,16,10,7,109
+ANN,4,49,6,5,22,7,93
+Transformer,39,10,3,6,9,3,70
+Optimization Algorithms,30,19,9,3,3,2,66
+SVM,8,22,5,3,13,1,52
+GAN,22,9,2,6,2,3,44
+Federated Learning,36,3,0,1,0,3,43
+YOLO,22,1,7,6,0,3,39
+NLP,16,7,1,8,1,0,33
+Regression,10,12,1,7,3,0,33
+Large Language Models (LLM),19,3,0,0,0,1,23
+Total,1675,1372,425,385,414,182,4453

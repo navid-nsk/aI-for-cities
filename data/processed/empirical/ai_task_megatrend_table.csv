@@ -1,0 +1,22 @@
+﻿,Digital Transformation & Smart Cities,Climate Change & Environmental Sustainability,Urban Mobility & Transportation,Social Equity & Quality of Life,Urban Development & Land Use,Urban Resilience & Safety,Total
+Prediction/Forecasting,481,824,234,184,185,59,1967
+Classification,524,263,98,87,128,69,1169
+Optimization,262,152,64,10,8,7,503
+Object Detection,240,28,60,20,23,46,417
+Analysis,50,74,7,42,41,5,219
+Segmentation,75,46,7,24,25,0,177
+Other,83,19,16,17,4,11,150
+Simulation,29,54,5,5,43,4,140
+Multiple Tasks,53,23,9,16,10,2,113
+Anomaly Detection,59,5,10,1,0,12,87
+Pattern Recognition,33,37,8,0,1,2,81
+Not Specified,43,25,3,6,4,0,81
+Clustering,23,17,6,14,8,4,72
+Feature Analysis/Explainability,9,37,1,10,4,0,61
+Evaluation/Assessment,14,15,2,12,9,3,55
+NLP/Text Analysis,26,4,2,11,0,2,45
+Generation,26,3,1,4,4,1,39
+Decision Support,15,9,2,2,2,0,30
+Estimation,3,8,2,2,3,0,18
+Monitoring,4,3,2,3,4,1,17
+Total,2052,1646,539,470,506,228,5441

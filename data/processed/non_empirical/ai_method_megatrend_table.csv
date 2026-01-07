@@ -1,0 +1,16 @@
+ai_method,Climate Change & Environmental Sustainability,Digital Transformation & Smart Cities,Social Equity & Quality of Life,Urban Development & Land Use,Urban Mobility & Transportation,Urban Resilience & Safety,Total
+Deep Learning,27,121,4,25,45,15,237
+Not Specified,18,90,23,13,13,4,161
+Machine Learning,24,44,6,11,22,4,111
+CNN,29,23,8,9,14,7,90
+Reinforcement Learning,2,9,0,0,15,1,27
+GNN,2,5,2,1,14,0,24
+"Machine Learning, Deep Learning",5,9,0,1,5,3,23
+Other ML,3,18,0,0,0,1,22
+Not Coverage,5,13,0,0,0,0,18
+LSTM,6,1,0,0,8,3,18
+"CNN, Deep Learning",2,6,1,3,2,3,17
+AI,1,5,2,0,6,2,16
+"Deep Learning, CNN",0,12,0,2,1,0,15
+Not Applicable/Not Specified,4,7,2,2,0,0,15
+Transformer,1,9,0,1,3,1,15

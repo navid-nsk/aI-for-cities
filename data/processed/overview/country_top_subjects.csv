@@ -1,0 +1,110 @@
+Country,Total Articles,Subject_1,Count_1,Percent_1,Subject_2,Count_2,Percent_2,Subject_3,Count_3,Percent_3
+China,2853,Transportation,511,17.9,Land Use,263,9.2,Environment,186,6.5
+India,881,Transportation,152,17.3,Infrastructure,71,8.1,Environment,61,6.9
+USA,421,Transportation,73,17.3,Environment,29,6.9,Urban Climate,24,5.7
+Saudi Arabia,306,Transportation,49,16.0,Safety/Crime,30,9.8,Energy,25,8.2
+South Korea,258,Transportation,32,12.4,Safety/Crime,24,9.3,Environment,16,6.2
+UK,166,Transportation,24,14.5,Infrastructure,11,6.6,Governance,9,5.4
+Italy,157,Transportation,34,21.7,Urban Design,12,7.6,Governance,12,7.6
+Pakistan,152,Transportation,28,18.4,Safety/Crime,13,8.6,Energy,12,7.9
+Spain,135,Transportation,25,18.5,Environment,13,9.6,Safety/Crime,7,5.2
+Germany,126,Transportation,29,23.0,Environment,10,7.9,Energy,10,7.9
+Australia,121,Transportation,20,16.5,Safety/Crime,13,10.7,Infrastructure,10,8.3
+Iran,111,Land Use,16,14.4,Transportation,11,9.9,Environment,9,8.1
+Turkey,100,Transportation,15,15.0,Land Use,7,7.0,Infrastructure,7,7.0
+Canada,97,Transportation,16,16.5,Environment,15,15.5,Infrastructure,10,10.3
+Morocco,87,Transportation,18,20.7,Land Use,9,10.3,Environment,7,8.0
+Malaysia,81,Transportation,17,21.0,Infrastructure,12,14.8,Environment,8,9.9
+Hong Kong,80,Transportation,19,23.8,Urban Climate,6,7.5,Urban Design,6,7.5
+Brazil,78,Transportation,11,14.1,Environment,8,10.3,Public Health,5,6.4
+Japan,78,Transportation,12,15.4,Infrastructure,7,9.0,Safety/Crime,7,9.0
+Taiwan,77,Transportation,15,19.5,Infrastructure,7,9.1,Safety/Crime,5,6.5
+Singapore,73,Urban Design,12,16.4,Governance,11,15.1,Transportation,9,12.3
+Poland,59,Transportation,5,8.5,Governance,5,8.5,Energy,4,6.8
+Egypt,59,Transportation,10,16.9,Digital Infrastructure and IoT,5,8.5,Infrastructure,4,6.8
+Portugal,57,Transportation,15,26.3,Governance,5,8.8,Environment,4,7.0
+Greece,52,Transportation,13,25.0,Infrastructure,3,5.8,Urban Climate,3,5.8
+Iraq,51,Transportation,9,17.6,Infrastructure,5,9.8,Environment,3,5.9
+Indonesia,49,Land Use,7,14.3,Transportation and Mobility,4,8.2,Governance,3,6.1
+Bangladesh,46,Urban Climate,9,19.6,Land Use,8,17.4,Environment,8,17.4
+Netherlands,45,Transportation,7,15.6,Land Use,5,11.1,Environment,4,8.9
+France,39,Transportation,9,23.1,Environment,5,12.8,Governance,3,7.7
+Jordan,38,Transportation,6,15.8,Safety/Crime,4,10.5,Land Use,3,7.9
+Vietnam,37,Environment,5,13.5,Transportation,4,10.8,Infrastructure,3,8.1
+Russia,33,Transportation,5,15.2,Infrastructure,4,12.1,Environment,4,12.1
+Thailand,31,Land Use,5,16.1,Transportation,5,16.1,Energy,2,6.5
+Romania,30,Transportation,5,16.7,Governance,5,16.7,Infrastructure,3,10.0
+Ireland,25,Transportation,7,28.0,Infrastructure,5,20.0,Environment,2,8.0
+Algeria,24,Transportation,5,20.8,Land Use,3,12.5,Energy,2,8.3
+Colombia,22,Environment,3,13.6,Transportation,3,13.6,Urban Planning and Development,2,9.1
+Norway,22,Transportation,6,27.3,Energy,4,18.2,Infrastructure,2,9.1
+Sweden,22,Infrastructure,4,18.2,Transportation,3,13.6,Environment,2,9.1
+Nigeria,21,Infrastructure,4,19.0,Digital Infrastructure and IoT,2,9.5,Urban Climate,1,4.8
+Belgium,20,Transportation,3,15.0,Environment,2,10.0,Energy,2,10.0
+UAE,20,Infrastructure,6,30.0,Transportation,4,20.0,Other,2,10.0
+Switzerland,20,Transportation,4,20.0,Urban Design,4,20.0,Housing,2,10.0
+Mexico,19,Transportation,9,47.4,Environment,2,10.5,Infrastructure,2,10.5
+South Africa,19,Land Use,5,26.3,Transportation,4,21.1,Governance and Policy,2,10.5
+Hungary,18,Transportation,5,27.8,Housing,2,11.1,Environment,2,11.1
+United Arab Emirates,17,Transportation,5,29.4,Infrastructure,3,17.6,Social Media Analysis,1,5.9
+Ecuador,16,Transportation,3,18.8,Environment,2,12.5,IoT and Edge Computing,1,6.2
+Kazakhstan,16,Energy,2,12.5,Transportation,2,12.5,Environment,2,12.5
+Chile,16,Transportation,5,31.2,Urban Design,3,18.8,Energy,2,12.5
+Austria,15,Urban Design,3,20.0,Transportation,2,13.3,Human Mobility,1,6.7
+Serbia,15,Safety/Crime,4,26.7,Transportation,3,20.0,Pollution and Emissions,2,13.3
+Tunisia,12,Infrastructure,4,33.3,Environment,2,16.7,Transportation,2,16.7
+Ethiopia,11,Land Use,3,27.3,Housing,1,9.1,Energy,1,9.1
+Ukraine,11,Transportation,2,18.2,Land Use,1,9.1,Environment,1,9.1
+Czech Republic,11,Land Use,1,9.1,Safety/Crime,1,9.1,Transportation,1,9.1
+Qatar,11,Infrastructure,3,27.3,Urban Design,1,9.1,Urban Infrastructure,1,9.1
+Finland,11,Environment,3,27.3,Disaster Management,2,18.2,Infrastructure,1,9.1
+New Zealand,9,Transportation,2,22.2,Governance,2,22.2,Water,1,11.1
+Kuwait,9,Transportation,2,22.2,Infrastructure,2,22.2,Urban Climate,2,22.2
+Oman,9,Energy,1,11.1,Water,1,11.1,Land Use,1,11.1
+Croatia,8,Energy,3,37.5,Transportation,2,25.0,Air Quality,1,12.5
+Slovenia,8,Transportation,3,37.5,Infrastructure,2,25.0,Governance,1,12.5
+Lebanon,8,Transportation,2,25.0,Governance,2,25.0,Urban Planning,1,12.5
+Peru,8,Safety and Crime,2,25.0,Land Use,1,12.5,Energy and Utilities,1,12.5
+Israel,7,Transportation,2,28.6,Urban Climate,1,14.3,Urban Design,1,14.3
+Denmark,7,Land Use,1,14.3,Transportation,1,14.3,IoT and Edge Computing,1,14.3
+Ghana,6,Waste Management,2,33.3,Urban Climate,1,16.7,Environment,1,16.7
+Argentina,6,Social Equity,1,16.7,Public Health,1,16.7,Housing,1,16.7
+Luxembourg,6,Transportation,2,33.3,Land Use,1,16.7,Governance,1,16.7
+Russian Federation,6,Governance,3,50.0,Urban Design,1,16.7,Infrastructure,1,16.7
+Unknown,6,Governance,2,33.3,Urban Planning and Development,1,16.7,Smart City Governance,1,16.7
+Philippines,6,Land Use,2,33.3,Transportation,2,33.3,Governance,1,16.7
+Afghanistan,6,Urban Infrastructure,1,16.7,Environment,1,16.7,Climate & weather,1,16.7
+Azerbaijan,5,Infrastructure,1,20.0,ICT Infrastructure,1,20.0,Land Use,1,20.0
+Cyprus,5,Transportation,3,60.0,Infrastructure,1,20.0,Urban Planning and Policy,1,20.0
+Rwanda,4,Social Equity,1,25.0,Transportation,1,25.0,Housing,1,25.0
+Estonia,4,Smart City Governance,1,25.0,Energy,1,25.0,Land Use,1,25.0
+Slovakia,4,Water,1,25.0,Urban Design,1,25.0,Transportation,1,25.0
+Bahrain,3,Waste Management,1,33.3,Transportation,1,33.3,Built Environment and Architecture,1,33.3
+Not Specified,3,Infrastructure,2,66.7,Housing,1,33.3,N/A,0,0.0
+Latvia,2,Transportation,1,50.0,Governance and Policy,1,50.0,N/A,0,0.0
+Nepal,2,Urban Planning and Development,1,50.0,Water,1,50.0,N/A,0,0.0
+Sri Lanka,2,Safety/Crime,1,50.0,Energy,1,50.0,N/A,0,0.0
+Syria,2,Environment,1,50.0,Urban Planning and Policy,1,50.0,N/A,0,0.0
+Bulgaria,2,Other,1,50.0,Transportation,1,50.0,N/A,0,0.0
+Zambia,2,Land Use,2,100.0,N/A,0,0.0,N/A,0,0.0
+Armenia,2,Urban Climate,1,50.0,Urban planning & design,1,50.0,N/A,0,0.0
+Tanzania,2,Land Use,1,50.0,Transportation,1,50.0,N/A,0,0.0
+Yemen,2,Land Use,2,100.0,N/A,0,0.0,N/A,0,0.0
+Lithuania,2,Urban Design,1,50.0,Infrastructure,1,50.0,N/A,0,0.0
+Macao,2,Transportation,1,50.0,Other,1,50.0,N/A,0,0.0
+Uganda,2,Environment,1,50.0,Green Spaces and Urban Ecology,1,50.0,N/A,0,0.0
+North Macedonia,1,Environment,1,100.0,N/A,0,0.0,N/A,0,0.0
+Burkina Faso,1,Urban Planning and Development,1,100.0,N/A,0,0.0,N/A,0,0.0
+Mauritius,1,Healthcare,1,100.0,N/A,0,0.0,N/A,0,0.0
+Macau,1,Transportation,1,100.0,N/A,0,0.0,N/A,0,0.0
+Panama,1,Urban Sensing,1,100.0,N/A,0,0.0,N/A,0,0.0
+Faroe Islands,1,Energy,1,100.0,N/A,0,0.0,N/A,0,0.0
+Costa Rica,1,Energy,1,100.0,N/A,0,0.0,N/A,0,0.0
+Botswana,1,Energy,1,100.0,N/A,0,0.0,N/A,0,0.0
+Togo,1,Land Use,1,100.0,N/A,0,0.0,N/A,0,0.0
+Somalia,1,Transportation,1,100.0,N/A,0,0.0,N/A,0,0.0
+Kenya,1,Infrastructure,1,100.0,N/A,0,0.0,N/A,0,0.0
+Democratic Republic of Congo,1,Water management,1,100.0,N/A,0,0.0,N/A,0,0.0
+Sierra Leone,1,Transportation and Mobility,1,100.0,N/A,0,0.0,N/A,0,0.0
+Fiji,1,Climate and Weather,1,100.0,N/A,0,0.0,N/A,0,0.0
+Venezuela,1,Transportation and Mobility,1,100.0,N/A,0,0.0,N/A,0,0.0

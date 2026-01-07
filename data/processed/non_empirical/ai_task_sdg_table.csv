@@ -1,0 +1,9 @@
+ai_task_descriptive,SDG 2,SDG 3,SDG 4,SDG 6,SDG 7,SDG 8,SDG 9,SDG 10,SDG 11,SDG 12,SDG 13,SDG 15,SDG 16,Total
+Classification,1,15,1,3,9,5,86,3,240,11,2,4,14,394
+Prediction/Forecasting,0,19,0,11,45,0,31,1,262,0,17,2,1,389
+Optimization,0,3,0,4,33,0,48,1,88,1,2,0,1,181
+Segmentation,0,3,0,1,3,0,11,0,73,0,0,4,0,95
+Object Detection,0,1,0,1,0,0,14,1,66,1,1,0,2,87
+Analysis,0,2,0,0,1,0,18,0,25,0,0,0,1,47
+Simulation,0,1,0,0,0,0,4,0,28,0,1,0,0,34
+Clustering,0,1,0,1,1,0,4,1,19,0,0,0,0,27
