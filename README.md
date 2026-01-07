@@ -153,10 +153,4 @@ See `docs/METHODOLOGY.md` for complete search string and inclusion/exclusion cri
 - **Data**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - **Code**: [MIT License](LICENSE)
 
-## Contact
 
-For questions or feedback, please open an issue or contact [author email].
-
-## Acknowledgments
-
-This research was supported by [funding information].
